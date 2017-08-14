@@ -31,7 +31,7 @@ Please feel free to open new issues for topics if you think something is missing
 
 You can vote for topics by adding :+1:, :tada: or :heart: reactions to the issue.
 
-
+![How to vote gif](https://github.com/mage2tv/topics/blob/media/how-to-vote.gif?raw=true)
 
 ## Suggesting new topics
 
