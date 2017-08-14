@@ -1,19 +1,19 @@
 # Mage2.tv Topics
 
-## Vote and Discuss future and existing topics for mage2.tv
+## Vote and discuss future and existing topics for mage2.tv.
 
 ### TL;DR;
 Please head over to the [issues](https://github.com/mage2tv/topics/issues) and start voting.
 
-If there are topics you feel would be more helpful to you please vote for them here.  
+If there is a topics you wish would be covered soon please give it a :+1: reaction.
 
-You can also suggest topics that are missing by opening new issues.
+If there are topics you find missing please add them to the issue list, too.
 
 ### How does it work
 
-The topics for mage2.tv are represented as issues in the tracker of this repository.  
-
 The main purpose of this repository is to collect feedback from you.
+
+The topics for mage2.tv are represented as issues in the tracker of this repository.  
 
 We will not necessarily pick the topic with the highest votes next, but the feedback collected here will certainly have a big influence.
 
@@ -26,6 +26,8 @@ I'll be adding new topics and also will be adding details on existing topics eve
 If we think an issue has been covered completely, we will close it.  
 
 Please feel free to open new issues for topics if you think something is missing in the list, or to open topics for existing screencasts in case you think the topic is incomplete or something is wrong.
+
+You can also use the issue tracker to simply ask questions. In the end it's a communication channel.
 
 ## Voting for topics
 
