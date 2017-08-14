@@ -3,7 +3,7 @@
 ## Vote and discuss future and existing topics for mage2.tv.
 
 ### TL;DR;
-Please head over to the [issues](https://github.com/mage2tv/topics/issues) and start voting.
+Please head over to the [issues](https://github.com/mage2tv/topics/issues?q=is%3Aopen+is%3Aissue+sort%3Acreated-asc) and start voting.
 
 If there is a topics you wish would be covered soon please give it a :+1: reaction.
 
