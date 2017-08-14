@@ -29,7 +29,9 @@ Please feel free to open new issues for topics if you think something is missing
 
 ## Voting for topics
 
-You can vote for topics by adding :+1:, :hooray: or :heart: reactions to the issue.
+You can vote for topics by adding :+1:, :tada: or :heart: reactions to the issue.
+
+
 
 ## Suggesting new topics
 
