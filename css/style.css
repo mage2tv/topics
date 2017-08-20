@@ -1,0 +1,37 @@
+.progress {
+  margin-top: 2m;
+}
+
+.votes {
+  margin-left: .8em;
+}
+
+.collapsible-body ul li {
+  list-style-type: disc;
+  margin-left: .7em;
+}
+
+img.issue-link-content {
+  height: 1.4em;
+  margin-left: 1.8em;
+}
+
+h1 {
+  width: 100%;
+  margin: auto;
+  font-size: 4rem;
+  margin: .5em 0 .8em 0;
+}
+
+img.howto {
+  width: 100%;
+}
+
+.loadstate {
+  margin-top: 2rem;
+}
+
+code {
+  margin-left: .2em;
+  margin-right: .2em;
+}
